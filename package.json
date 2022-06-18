@@ -31,7 +31,7 @@
     "@babel/core": "7.15.8",
     "@react-native-community/eslint-config": "^3.0.1",
     "eslint": "^8.1.0",
-    "prettier": "^2.4.1"
+    "prettier": "2.7.1"
   },
   "resolutions": {
     "**/css-select/nth-check": "2.0.1",
